@@ -33,8 +33,8 @@ Vivado: Xilinx Vivado Design Suite for synthesis, simulation, and implementation
 * Synthesize and implement the design.
 * Generate the bitstream and program the FPGA.
 ## Directory Structure
-src/: Contains the Verilog source files.
-constraints/: Contains the XDC constraints files for pin mapping.
+* src/: Contains the Verilog source files.
+* constraints/: Contains the XDC constraints files for pin mapping.
 # Usage
 - Set the current time using the input controls.
 - Set the timer and start the countdown.
