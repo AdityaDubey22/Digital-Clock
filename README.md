@@ -1,7 +1,7 @@
 # Digital clock project in Verilog with Vivado.
 
 # Project Overview
-This repository contains a digital clock project implemented using Verilog and designed for synthesis and simulation using Vivado software. The digital clock is capable of displaying the current time on a 7-segment display and includes additional features such as a timer, alarm, and stopwatch.
+This repository contains a digital clock project implemented using Verilog and designed for synthesis using Vivado software. The digital clock is capable of displaying the current time on a 7-segment display and includes additional features such as a timer, alarm, and stopwatch.
 
 # Features 
 ## Time Display
@@ -18,10 +18,9 @@ format.
 - Alarm Enable/Disable: The alarm can be enabled or disabled using input controls.
 ## Stopwatch
 - Start/Stop: The stopwatch can be started and stopped using input controls.
-- Lap Time: The stopwatch supports recording lap times.
 - Reset: The stopwatch can be reset to zero.
 # Hardware Requirements
-- FPGA Board: A compatible FPGA development board.
+- FPGA Board: A compatible FPGA development board (BASYS-3, ARTIX-7).
 - 7-Segment Display: A display unit for visualizing time, timer, alarm, and stopwatch values.
 - Input Controls: Push buttons or switches for setting time, starting/stopping the timer and stopwatch, and enabling/disabling the alarm.
 # Software Requirements
