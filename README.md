@@ -3,7 +3,7 @@
 # Project Overview
 This repository contains a digital clock project implemented using Verilog and designed for synthesis and simulation using Vivado software. The digital clock is capable of displaying the current time on a 7-segment display and includes additional features such as a timer, alarm, and stopwatch.
 
-# Features
+# Features 
 ## Time Display
 
 - Current Time Display: The clock accurately displays the current time in HH:MM format on a 7-segment display.
