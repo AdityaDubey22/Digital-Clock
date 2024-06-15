@@ -7,9 +7,9 @@ This repository contains a digital clock project implemented using Verilog and d
 # Features
 ## Time Display
 
-Current Time Display: The clock accurately displays the current time in HH:MM
-format on a 7-segment display.
-Time Setting: Users can set the current time using dedicated input controls.
+- Current Time Display: The clock accurately displays the current time in HH:MM
+- format on a 7-segment display.
+- Time Setting: Users can set the current time using dedicated input controls.
 ## Timer
 Countdown Timer: The timer can be set to count down from a specified time. When the countdown reaches zero, an alert signal is activated.
 Timer Display: The remaining time is displayed on the 7-segment display in MM
